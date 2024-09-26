@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/solarapp/static/css/main.323d7611.css",
+    "main.js": "/solarapp/static/js/main.a8c18f17.js",
+    "static/js/213.64bcb0fc.chunk.js": "/solarapp/static/js/213.64bcb0fc.chunk.js",
+    "static/js/732.48766c76.chunk.js": "/solarapp/static/js/732.48766c76.chunk.js",
+    "static/js/453.cca057e2.chunk.js": "/solarapp/static/js/453.cca057e2.chunk.js",
+    "index.html": "/solarapp/index.html",
+    "main.323d7611.css.map": "/solarapp/static/css/main.323d7611.css.map",
+    "main.a8c18f17.js.map": "/solarapp/static/js/main.a8c18f17.js.map",
+    "213.64bcb0fc.chunk.js.map": "/solarapp/static/js/213.64bcb0fc.chunk.js.map",
+    "732.48766c76.chunk.js.map": "/solarapp/static/js/732.48766c76.chunk.js.map",
+    "453.cca057e2.chunk.js.map": "/solarapp/static/js/453.cca057e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.a8c18f17.js"
+  ]
+}
